@@ -17,3 +17,13 @@
 footer {
   background: #004e64;
 }
+.map {
+  padding: 60px 20px;
+  text-align: center;
+  background: #ffffff;
+}
+
+.map h2 {
+  margin-bottom: 20px;
+  color: #004e64;
+}
